@@ -37,7 +37,7 @@ TecBox is an educational business incubator platform designed to support and emp
 
 # TecBox Incubator Website
 
-![GitHub Repo](https://github.com/asmahmedsakalla2003new-cloud/Responsive-Tech-Box-website-.git)]
+![GitHub Repo](https://github.com/asmahmedsakalla2003new-cloud/Responsive-Tech-Box-website-.git)
 ![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=github)
 
 
